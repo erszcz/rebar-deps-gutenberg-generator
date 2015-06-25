@@ -1,0 +1,3 @@
+postinstall:
+  message:
+    Add you favorite apps to `deps` section in `rebar.config` and run `rebar get-deps compile`.
